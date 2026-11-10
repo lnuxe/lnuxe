@@ -34,6 +34,16 @@
 ## 🔥 最近动态（GitHub Action 自动更新）
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2406](https://github.com/Tencent/tdesign-mobile-vue/pull/2406) in [Tencent/tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)
+2. 💪 Opened PR [#320](https://github.com/wechat-miniprogram/glass-easel/pull/320) in [wechat-miniprogram/glass-easel](https://github.com/wechat-miniprogram/glass-easel)
+3. 💪 Opened PR [#119](https://github.com/wechat-miniprogram/miniprogram-simulate/pull/119) in [wechat-miniprogram/miniprogram-simulate](https://github.com/wechat-miniprogram/miniprogram-simulate)
+4. 💪 Opened PR [#2405](https://github.com/Tencent/tdesign-mobile-vue/pull/2405) in [Tencent/tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)
+5. 💪 Opened PR [#319](https://github.com/wechat-miniprogram/glass-easel/pull/319) in [wechat-miniprogram/glass-easel](https://github.com/wechat-miniprogram/glass-easel)
+6. 💪 Opened PR [#7053](https://github.com/Tencent/tdesign-vue-next/pull/7053) in [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
+7. 💪 Opened PR [#318](https://github.com/wechat-miniprogram/glass-easel/pull/318) in [wechat-miniprogram/glass-easel](https://github.com/wechat-miniprogram/glass-easel)
+8. 💪 Opened PR [#1949](https://github.com/Tencent/cherry-markdown/pull/1949) in [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+9. 💪 Opened PR [#4472](https://github.com/Tencent/tdesign-react/pull/4472) in [Tencent/tdesign-react](https://github.com/Tencent/tdesign-react)
+10. 💪 Opened PR [#7052](https://github.com/Tencent/tdesign-vue-next/pull/7052) in [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
 <!--END_SECTION:activity-->
 
 ## 🐍 贡献蛇（每日自动生成）
