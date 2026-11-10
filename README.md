@@ -62,4 +62,4 @@
 
 ---
 
-*README 由 GitHub Actions 自动维护，最近更新：<!--LAST_UPDATED-->*
+*README 由 GitHub Actions 自动维护，最近更新：<!--LAST_UPDATED--> 2026-11-10 09:21 UTC
