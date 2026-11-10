@@ -1,55 +1,48 @@
-# 👋 你好，我是 lnuxe
+# 你好，我是 lnuxe
 
 > 腾讯开源生态贡献者 · 全栈 & 跨端开发探索者
 
 持续为腾讯开源项目贡献高质量修复：`vConsole`、`TDesign`（vue-next / react / mobile-vue）、`wujie`、`cherry-markdown`、`glass-easel`、`miniprogram-simulate` 等。
 
-## 🛠️ 常用技术
+## 常用技术
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dart.svg" width="44" height="44" alt="Dart" title="Dart">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/java.svg" width="44" height="44" alt="Java" title="Java">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/python.svg" width="44" height="44" alt="Python" title="Python">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/php.svg" width="44" height="44" alt="PHP" title="PHP">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/objectivec.svg" width="44" height="44" alt="Objective-C" title="Objective-C">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/swift.svg" width="44" height="44" alt="Swift" title="Swift">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kotlin.svg" width="44" height="44" alt="Kotlin" title="Kotlin">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/react.svg" width="44" height="44" alt="React" title="React">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/vue.svg" width="44" height="44" alt="Vue" title="Vue">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/flutter.svg" width="44" height="44" alt="Flutter" title="Flutter">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dart.svg" width="40" height="40" alt="Dart" title="Dart">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/java.svg" width="40" height="40" alt="Java" title="Java">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/python.svg" width="40" height="40" alt="Python" title="Python">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/php.svg" width="40" height="40" alt="PHP" title="PHP">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/objectivec.svg" width="40" height="40" alt="Objective-C" title="Objective-C">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/swift.svg" width="40" height="40" alt="Swift" title="Swift">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kotlin.svg" width="40" height="40" alt="Kotlin" title="Kotlin">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/react.svg" width="40" height="40" alt="React" title="React">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/vue.svg" width="40" height="40" alt="Vue" title="Vue">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/flutter.svg" width="40" height="40" alt="Flutter" title="Flutter">
 </p>
 
-### 🧰 工具链 & AI
+### 工具链 & AI
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/nodejs.svg" width="44" height="44" alt="Node.js" title="Node.js">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/git.svg" width="44" height="44" alt="Git" title="Git">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/markdown.svg" width="44" height="44" alt="Markdown" title="Markdown">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/cursor.svg" width="44" height="44" alt="Cursor" title="Cursor">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/claude.svg" width="44" height="44" alt="Claude" title="Claude">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/huggingface.svg" width="44" height="44" alt="Hugging Face" title="Hugging Face">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/ollama.svg" width="44" height="44" alt="Ollama" title="Ollama">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/deepseek.svg" width="44" height="44" alt="DeepSeek" title="DeepSeek">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/git.svg" width="40" height="40" alt="Git" title="Git">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/markdown.svg" width="40" height="40" alt="Markdown" title="Markdown">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/cursor.svg" width="40" height="40" alt="Cursor" title="Cursor">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/claude.svg" width="40" height="40" alt="Claude" title="Claude">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/huggingface.svg" width="40" height="40" alt="Hugging Face" title="Hugging Face">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/ollama.svg" width="40" height="40" alt="Ollama" title="Ollama">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/deepseek.svg" width="40" height="40" alt="DeepSeek" title="DeepSeek">
 </p>
 
-### 🚀 跨端框架
+### 跨端框架
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kuikly.svg" width="44" height="44" alt="Kuikly" title="Kuikly">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/pixui.svg" width="44" height="44" alt="PixUI" title="PixUI">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dsh.svg" width="44" height="44" alt="DSH" title="DSH">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kuikly.svg" width="40" height="40" alt="Kuikly" title="Kuikly">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/pixui.svg" width="40" height="40" alt="PixUI" title="PixUI">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dsh.svg" width="40" height="40" alt="DSH" title="DSH">
 </p>
 
-## 📊 GitHub 概览
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/badges/followers.svg" alt="followers">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/badges/repos.svg" alt="public repos">
-</p>
-
-## 🔥 最近动态（GitHub Action 自动更新）
+## 最近动态（自动更新）
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2406](https://github.com/Tencent/tdesign-mobile-vue/pull/2406) in [Tencent/tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)
@@ -64,7 +57,7 @@
 10. 💪 Opened PR [#7052](https://github.com/Tencent/tdesign-vue-next/pull/7052) in [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
 <!--END_SECTION:activity-->
 
-## 🐍 贡献蛇（每日自动生成）
+## 贡献蛇（每日自动生成）
 
 <p align="center">
   <picture>
@@ -74,7 +67,7 @@
   </picture>
 </p>
 
-## 📫 联系我
+## 联系我
 
 - 邮箱：[2213685984@qq.com](mailto:2213685984@qq.com)
 
