@@ -4,42 +4,13 @@
 
 持续为腾讯开源项目贡献高质量修复：`vConsole`、`TDesign`（vue-next / react / mobile-vue）、`wujie`、`cherry-markdown`、`glass-easel`、`miniprogram-simulate` 等。
 
-## 常用技术
+## 技术栈
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dart.svg" width="40" height="40" alt="Dart" title="Dart">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/java.svg" width="40" height="40" alt="Java" title="Java">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/python.svg" width="40" height="40" alt="Python" title="Python">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/php.svg" width="40" height="40" alt="PHP" title="PHP">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/objectivec.svg" width="40" height="40" alt="Objective-C" title="Objective-C">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/swift.svg" width="40" height="40" alt="Swift" title="Swift">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kotlin.svg" width="40" height="40" alt="Kotlin" title="Kotlin">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/react.svg" width="40" height="40" alt="React" title="React">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/vue.svg" width="40" height="40" alt="Vue" title="Vue">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/flutter.svg" width="40" height="40" alt="Flutter" title="Flutter">
-</p>
-
-### 工具链 & AI
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/git.svg" width="40" height="40" alt="Git" title="Git">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/markdown.svg" width="40" height="40" alt="Markdown" title="Markdown">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/cursor.svg" width="40" height="40" alt="Cursor" title="Cursor">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/claude.svg" width="40" height="40" alt="Claude" title="Claude">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/huggingface.svg" width="40" height="40" alt="Hugging Face" title="Hugging Face">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/ollama.svg" width="40" height="40" alt="Ollama" title="Ollama">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/deepseek.svg" width="40" height="40" alt="DeepSeek" title="DeepSeek">
-</p>
-
-### 跨端框架
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kuikly.svg" width="40" height="40" alt="Kuikly" title="Kuikly">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/pixui.svg" width="40" height="40" alt="PixUI" title="PixUI">
-  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dsh.svg" width="40" height="40" alt="DSH" title="DSH">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/stack-dark.svg" />
+    <img alt="技术栈：语言 / 工具链与 AI / 跨端框架" src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/stack-light.svg" width="880" />
+  </picture>
 </p>
 
 ## 最近动态（自动更新）
@@ -73,6 +44,6 @@
 
 ---
 
-<sub>图标来自 <a href="https://simpleicons.org">simple-icons</a> 与 <a href="https://devicon.dev">devicon</a>（均开源），本地自托管渲染。</sub>
+<sub>图标来自 <a href="https://simpleicons.org">simple-icons</a> 与 <a href="https://devicon.dev">devicon</a>（均开源）；技术栈卡片由脚本自绘，亮/暗主题自动切换。</sub>
 
 *README 由 GitHub Actions 自动维护，最近更新：<!--LAST_UPDATED-->*
