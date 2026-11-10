@@ -7,28 +7,46 @@
 ## 🛠️ 常用技术
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,java,py,js,ts,php,swift,kotlin,react,vue&theme=dark&perline=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart,java,py,js,ts,php,swift,kotlin,react,vue&theme=light&perline=10" />
-    <img alt="Dart · Java · Python · JavaScript · TypeScript · PHP · Swift · Kotlin · React · Vue" src="https://skillicons.dev/icons?i=dart,java,py,js,ts,php,swift,kotlin,react,vue&theme=light&perline=10" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dart.svg" width="44" height="44" alt="Dart" title="Dart">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/java.svg" width="44" height="44" alt="Java" title="Java">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/python.svg" width="44" height="44" alt="Python" title="Python">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/php.svg" width="44" height="44" alt="PHP" title="PHP">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/objectivec.svg" width="44" height="44" alt="Objective-C" title="Objective-C">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/swift.svg" width="44" height="44" alt="Swift" title="Swift">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kotlin.svg" width="44" height="44" alt="Kotlin" title="Kotlin">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/react.svg" width="44" height="44" alt="React" title="React">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/vue.svg" width="44" height="44" alt="Vue" title="Vue">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/flutter.svg" width="44" height="44" alt="Flutter" title="Flutter">
 </p>
+
+### 🧰 工具链 & AI
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,git,vscode,md&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,git,vscode,md&theme=light" />
-    <img alt="Node.js · Git · VS Code · Markdown" src="https://skillicons.dev/icons?i=nodejs,git,vscode,md&theme=light" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/nodejs.svg" width="44" height="44" alt="Node.js" title="Node.js">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/git.svg" width="44" height="44" alt="Git" title="Git">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/markdown.svg" width="44" height="44" alt="Markdown" title="Markdown">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/cursor.svg" width="44" height="44" alt="Cursor" title="Cursor">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/claude.svg" width="44" height="44" alt="Claude" title="Claude">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/huggingface.svg" width="44" height="44" alt="Hugging Face" title="Hugging Face">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/ollama.svg" width="44" height="44" alt="Ollama" title="Ollama">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/deepseek.svg" width="44" height="44" alt="DeepSeek" title="DeepSeek">
 </p>
 
-<sub>另外还熟悉 Objective-C / iOS 原生开发。</sub>
+### 🚀 跨端框架
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/kuikly.svg" width="44" height="44" alt="Kuikly" title="Kuikly">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/pixui.svg" width="44" height="44" alt="PixUI" title="PixUI">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/icons/dsh.svg" width="44" height="44" alt="DSH" title="DSH">
+</p>
 
 ## 📊 GitHub 概览
 
 <p align="center">
-  <a href="https://github.com/lnuxe?tab=followers"><img src="https://img.shields.io/github/followers/lnuxe?style=for-the-badge&label=Followers" alt="followers"></a>
-  <a href="https://github.com/lnuxe?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lnuxe&query=%24.public_repos&label=Repos&color=blue&style=for-the-badge" alt="public repos"></a>
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/badges/followers.svg" alt="followers">
+  <img src="https://raw.githubusercontent.com/lnuxe/lnuxe/main/assets/badges/repos.svg" alt="public repos">
 </p>
 
 ## 🔥 最近动态（GitHub Action 自动更新）
@@ -62,4 +80,6 @@
 
 ---
 
-*README 由 GitHub Actions 自动维护，最近更新：<!--LAST_UPDATED--> 2026-11-10 09:21 UTC
+<sub>图标来自 <a href="https://simpleicons.org">simple-icons</a> 与 <a href="https://devicon.dev">devicon</a>（均开源），本地自托管渲染。</sub>
+
+*README 由 GitHub Actions 自动维护，最近更新：<!--LAST_UPDATED-->*

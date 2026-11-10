@@ -1,0 +1,27 @@
+name: refresh-badges
+
+on:
+  schedule:
+    - cron: "0 3 * * *"      # 每天 UTC 3 点刷新概览徽章
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Re-download badge SVGs
+        run: |
+          mkdir -p assets/badges
+          curl -sSL 'https://img.shields.io/github/followers/lnuxe?style=for-the-badge&label=Followers&logo=github' -o assets/badges/followers.svg
+          curl -sSL 'https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lnuxe&query=%24.public_repos&label=Repos&color=blue&style=for-the-badge&logo=github' -o assets/badges/repos.svg
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/badges
+          if git diff --cached --quiet; then echo 'no change'; exit 0; fi
+          git commit -m "chore: refresh profile badges"
+          git push
