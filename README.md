@@ -6,25 +6,29 @@
 
 ## 🛠️ 常用技术
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,java,py,js,ts,php,swift,kotlin,react,vue&theme=dark&perline=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart,java,py,js,ts,php,swift,kotlin,react,vue&theme=light&perline=10" />
+    <img alt="Dart · Java · Python · JavaScript · TypeScript · PHP · Swift · Kotlin · React · Vue" src="https://skillicons.dev/icons?i=dart,java,py,js,ts,php,swift,kotlin,react,vue&theme=light&perline=10" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,git,vscode,md&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,git,vscode,md&theme=light" />
+    <img alt="Node.js · Git · VS Code · Markdown" src="https://skillicons.dev/icons?i=nodejs,git,vscode,md&theme=light" />
+  </picture>
+</p>
+
+<sub>另外还熟悉 Objective-C / iOS 原生开发。</sub>
 
 ## 📊 GitHub 概览
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/lnuxe?style=flat-square&label=Followers" alt="followers">
-<img src="https://img.shields.io/github/stars/lnuxe?style=flat-square&label=Stars" alt="stars">
-<img src="https://img.shields.io/github/watchers/lnuxe?style=flat-square&label=Watchers" alt="watchers">
-<img src="https://img.shields.io/github/sponsors/lnuxe?style=flat-square&label=Sponsors" alt="sponsors">
+  <a href="https://github.com/lnuxe?tab=followers"><img src="https://img.shields.io/github/followers/lnuxe?style=for-the-badge&label=Followers" alt="followers"></a>
+  <a href="https://github.com/lnuxe?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lnuxe&query=%24.public_repos&label=Repos&color=blue&style=for-the-badge" alt="public repos"></a>
 </p>
 
 ## 🔥 最近动态（GitHub Action 自动更新）
@@ -34,15 +38,17 @@
 
 ## 🐍 贡献蛇（每日自动生成）
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lnuxe/lnuxe/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lnuxe/lnuxe/output/github-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/lnuxe/lnuxe/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lnuxe/lnuxe/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lnuxe/lnuxe/output/github-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/lnuxe/lnuxe/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## 📫 联系我
 
-- 邮箱：2213685984@qq.com
+- 邮箱：[2213685984@qq.com](mailto:2213685984@qq.com)
 
 ---
 
