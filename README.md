@@ -2,7 +2,7 @@
 
 > 腾讯开源生态贡献者 · 全栈 & 跨端开发探索者
 
-在腾讯开源生态里提交代码修复：三套 UI 组件库（Vue / React / 移动端）、微前端与跨端框架、小程序基础库、Markdown 编辑器。
+参与腾讯开源项目建设：三套 UI 组件库（Vue / React / 移动端）、微前端与跨端框架、小程序基础库、Markdown 编辑器。
 
 全栈 + 跨端：Web、小程序、移动端、鸿蒙、KMP。语言用 Dart / Kotlin / Python / TypeScript / Swift / PHP，跨端用 Flutter、React、Kuikly、PixUI。
 
