@@ -1,10 +1,8 @@
 # 你好，我是 lnuxe
 
-> 全栈 & 跨端开发探索者
+> 腾讯开源生态贡献者 · 全栈 & 跨端开发探索者
 
 参与腾讯开源项目建设：三套 UI 组件库（Vue / React / 移动端）、微前端与跨端框架、小程序基础库、Markdown 编辑器。
-
-做 Web、小程序、移动端、鸿蒙与 KMP；语言用 Dart / Kotlin / Python / TypeScript / Swift / PHP，跨端用 Flutter、React、Kuikly、PixUI。
 
 自己写了个极光主题的单文件贪吃蛇，玻璃拟态 + 程序化音效，零依赖，打开就能玩：[在线试玩](https://lnuxe.github.io/aurora-snake/)。
 
