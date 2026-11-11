@@ -4,8 +4,6 @@
 
 参与腾讯开源项目建设：三套 UI 组件库（Vue / React / 移动端）、微前端与跨端框架、小程序基础库、Markdown 编辑器。
 
-自己写了个极光主题的单文件贪吃蛇，玻璃拟态 + 程序化音效，零依赖，打开就能玩：[在线试玩](https://lnuxe.github.io/aurora-snake/)。
-
 ## 技术栈
 
 <p align="center">
